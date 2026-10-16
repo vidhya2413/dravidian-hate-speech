@@ -1,4 +1,6 @@
-# Dravidian Hate Speech Detection
+﻿# Dravidian Hate Speech Detection
+
+Dravidian hate speech detection research code and dataset reference.
 
 ## Project Overview
 This repository contains reference code for a Dravidian
