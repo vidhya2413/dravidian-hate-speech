@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.keras
+*.h5
+.env
+
+# Dataset files
+data/
+duplicate_aware/
+
+# Generated results
+results/
+results_ensemble/
+results_v2/
+results_v3/
